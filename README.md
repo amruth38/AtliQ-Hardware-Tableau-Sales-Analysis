@@ -64,12 +64,7 @@
 3. Load the dashboard to analyze key insights.
 
 ## Technologies Used
-- **Tools:** Tableau, Excel
+- **Tools:** Tableau, MySQL
 - **Data Size:** ~150,000 records
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 Feel free to contribute or raise issues to enhance the project further!
