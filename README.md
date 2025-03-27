@@ -65,6 +65,7 @@
 
 ## Technologies Used
 - **Tools:** Tableau, MySQL
-- **Data Size:** ~150,000 records
+- **Data Size:** ~1,50,000 records
 
 Feel free to contribute or raise issues to enhance the project further!
+Thank you! :)
